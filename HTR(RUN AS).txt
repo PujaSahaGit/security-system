@@ -1,0 +1,5 @@
+for run
+1. right click on System.cpp.
+2.click on open in integrated terminal.
+3.write "g++ System.cpp",enter.
+4. again write "./a".
